@@ -1,0 +1,26 @@
+.example-container {
+    height: 100%;
+  }
+  
+  .example-sidenav-content {
+    width: 200px;
+    display: float;
+    float: left;
+    justify-content: center;
+  }
+  
+  .example-sidenav {
+    // padding: 0px 20px;
+    margin-top: 2em;
+  }
+  .menuItem:hover{
+    background-color: red;
+  }
+  
+  #btnMenu{
+    border-style: none;
+    background-color: none;
+    scale: calc(2.0);
+    margin-left: 1em;
+    margin-top: 1em;
+  }
